@@ -1,0 +1,38 @@
+{
+  "application": {
+    "name": "",
+    "id": "",
+    "created_at": ""
+  },
+  "auth": {
+    "auth_url": "",
+    "login_url": "",
+    "register_url": "",
+    "token_url": ""
+  },
+  "credentials": {
+    "api_key": "",
+    "secret_key": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "license": {
+    "license_key": "",
+    "status": "",
+    "expiry": ""
+  },
+  "backend": {
+    "backend_url": "",
+    "webhook_url": "",
+    "database_url": ""
+  },
+  "version": {
+    "current_version": "",
+    "version_name": "",
+    "last_updated": ""
+  },
+  "system": {
+    "status": "active",
+    "environment": "production"
+  }
+}

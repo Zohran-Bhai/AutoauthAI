@@ -1,0 +1,15 @@
+
+{
+  "users": [],
+  "applications": [],
+  "api_keys": [],
+  "licenses": [],
+  "versions": [
+    {
+      "version": "3.4.1",
+      "name": "Nebula-X",
+      "released": "2024-02-25"
+    }
+  ],
+  "logs": []
+}
